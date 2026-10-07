@@ -1,108 +1,108 @@
 {
   "schema_version": 1,
-  "deployment_identity": "legavik-cc-batch3-qa-20261007-1",
-  "release": "legavik-cc-batch3-qa-20261007-1",
-  "release_timestamp": "2026-10-07T12:17:19.020Z",
-  "source_commit": "5d72cb42fa1a7e5d1062b1c3a300453eeacf2ba9",
+  "deployment_identity": "legavik-cc-batch3-qa-20261008-2",
+  "release": "legavik-cc-batch3-qa-20261008-2",
+  "release_timestamp": "2026-10-07T21:53:48.485Z",
+  "source_commit": "d919518db1a67b11d5ec99845edfba6505529e9e",
   "canonical_origin": "https://sixtrees778899-stack.github.io",
-  "canonical_entry": "https://sixtrees778899-stack.github.io/LEGAVIK-cc-batch3-qa/web/v3-crypto/index.html?release=legavik-cc-batch3-qa-20261007-1#home",
+  "canonical_entry": "https://sixtrees778899-stack.github.io/LEGAVIK-cc-batch3-qa/web/v3-crypto/index.html?release=legavik-cc-batch3-qa-20261008-2#home",
   "html": [
     {
       "path": "web/v3-crypto/index.html",
-      "sha256": "c722bfc870ba1bac168fcb720bf239a837c520e95e984dfce7f822674ed5a074"
+      "sha256": "3bd4cd9bc3ffbba23bf52c81c3730deba1d02a7da17dd6f5a59099dc90db1c95"
     },
     {
       "path": "web/account/index.html",
-      "sha256": "d386868ec5d905c8f3bcede3630669f155bc9a9b29f17037fc52e3b1d010b908"
+      "sha256": "3e28669fea0cfee434b7b2cd7a9d36708e7ae61c50064c147dc9d92359fce663"
     },
     {
       "path": "web/v2/index.html",
-      "sha256": "afddeb5dcbb00c6a7b8d343806da664d3324dfe859b0451f550c701efac70b63"
+      "sha256": "b8756fecaebce45805d649933f057864a5e3508064afe9a6e3c15de35cd83ac9"
     },
     {
       "path": "web/recover.html",
-      "sha256": "b2f43a7dfe2d3fbca64d05d9c781660173ef1ba4b076d812d557fa760b7ef065"
+      "sha256": "3336ccb32c41ea400c5203c106d2c81001746be914ff1714291f57e14d958d91"
     }
   ],
   "assets": [
     {
-      "path": "web/canonical-runtime-gate.legavik-cc-batch3-qa-20261007-1.js",
-      "sha256": "2f0587ac2fef350b2b4c61878744538956e86d87e62ccad47a30716344ad4ead"
+      "path": "web/canonical-runtime-gate.legavik-cc-batch3-qa-20261008-2.js",
+      "sha256": "22c29b04633a3a27d3f06be38cad4c5f6aee29d9f22e54edf6e6eecf7cc1fe37"
     },
     {
-      "path": "web/canonical-entry-recovery.legavik-cc-batch3-qa-20261007-1.js",
-      "sha256": "e694bdbc41c6d4131127601f045ccb7a477eb42de9f73900bc155833d81a6c82"
+      "path": "web/canonical-entry-recovery.legavik-cc-batch3-qa-20261008-2.js",
+      "sha256": "b93b0215cd67e6bb942ff12b1a2b202d81d548a554855501acfbacfa6bd2ce59"
     },
     {
-      "path": "web/recover.legavik-cc-batch3-qa-20261007-1.bundle.js",
-      "sha256": "2c96be510cccff4714cd5d2634d0c762e283b043fcd6f6407a8e3fde0a12fd63"
+      "path": "web/recover.legavik-cc-batch3-qa-20261008-2.bundle.js",
+      "sha256": "a04eab1a6c1929f3899a1abdada09f9d023cf13b5a3e802cd7ac16dcb511c4ea"
     },
     {
-      "path": "web/styles.legavik-cc-batch3-qa-20261007-1.css",
+      "path": "web/styles.legavik-cc-batch3-qa-20261008-2.css",
       "sha256": "4efb1b1719d3c9e1dba4fef71e2a9055aa5d55b51e601899b5b25c58e0f47325"
     },
     {
-      "path": "web/recovery-workspace.legavik-cc-batch3-qa-20261007-1.css",
+      "path": "web/recovery-workspace.legavik-cc-batch3-qa-20261008-2.css",
       "sha256": "d3d7091b9888de662b0d8ef9ca4eb10dc0520c012791a1744a033973b98160e2"
     },
     {
-      "path": "web/account/canonical-entry.legavik-cc-batch3-qa-20261007-1.js",
-      "sha256": "f770373294d06e016b443074e15f1aeb437c7c227ec26b60e3a879c671313ac7"
+      "path": "web/account/canonical-entry.legavik-cc-batch3-qa-20261008-2.js",
+      "sha256": "8372b7d42d74dbbd4aa5a622f44384a03540aaee5716b53dd9892b0e61ed52d9"
     },
     {
-      "path": "web/account/public-config.legavik-cc-batch3-qa-20261007-1.js",
+      "path": "web/account/public-config.legavik-cc-batch3-qa-20261008-2.js",
       "sha256": "cbe6f12a7540c84e72fb797d9db3c3ffbf9dc43210fef1c241484c57491e6540"
     },
     {
-      "path": "web/account/account-nav-bridge.legavik-cc-batch3-qa-20261007-1.bundle.js",
-      "sha256": "7473e5c0cb12537eab438f689e129938e6c166fb843e1b3559d776ebc9d2760c"
+      "path": "web/account/account-nav-bridge.legavik-cc-batch3-qa-20261008-2.bundle.js",
+      "sha256": "901f1c4c37e03a8f2145466532aa1a0875426724ecf36c2474a0a28d0ff9b1e9"
     },
     {
-      "path": "web/account/account-app.legavik-cc-batch3-qa-20261007-1.bundle.js",
-      "sha256": "50d907501ff6339cb30464362591b113556acd668aea8dfa376df03774903b4a"
+      "path": "web/account/account-app.legavik-cc-batch3-qa-20261008-2.bundle.js",
+      "sha256": "abf4ce6528ba8f91ec9b0bc6ebb8927abb4a1273e1b8b0a4acd82cd79313090e"
     },
     {
-      "path": "web/account/account.legavik-cc-batch3-qa-20261007-1.css",
+      "path": "web/account/account.legavik-cc-batch3-qa-20261008-2.css",
       "sha256": "d90d03a3e5507ad97292fe4bf1b350c0410e6c6967621b34b687f63dc37b38e1"
     },
     {
-      "path": "web/account/auth-ux.legavik-cc-batch3-qa-20261007-1.css",
+      "path": "web/account/auth-ux.legavik-cc-batch3-qa-20261008-2.css",
       "sha256": "5823ddc485c6f37e49c30f602861c9a4afa360f1c445777eddcc88ca614ca35f"
     },
     {
-      "path": "web/v2/canonical-entry.legavik-cc-batch3-qa-20261007-1.js",
-      "sha256": "bde5d17b73bd112002870db9b473c8f25e102d51a99e921fc674f9b283eb8bc4"
+      "path": "web/v2/canonical-entry.legavik-cc-batch3-qa-20261008-2.js",
+      "sha256": "5faa3364524853942dcadf32be65c4dd63d187cb638bca63ca5bc0a75b90120f"
     },
     {
-      "path": "web/v2/v2-app.legavik-cc-batch3-qa-20261007-1.bundle.js",
-      "sha256": "5fb255c1796c6b879a6243bcdea2a8f1eb75821c280858537142b379ba9ea191"
+      "path": "web/v2/v2-app.legavik-cc-batch3-qa-20261008-2.bundle.js",
+      "sha256": "8125606d3554449c0f028da472eb16bbb44e867f1b4011d63cab1df223dd07ca"
     },
     {
-      "path": "web/v2/v2.legavik-cc-batch3-qa-20261007-1.css",
+      "path": "web/v2/v2.legavik-cc-batch3-qa-20261008-2.css",
       "sha256": "644a10ed80352be4e373f5a6cb7e8e7e28de2e9ba50ec7e5800fdc074eb08f4a"
     },
     {
-      "path": "web/v2/readiness.legavik-cc-batch3-qa-20261007-1.css",
+      "path": "web/v2/readiness.legavik-cc-batch3-qa-20261008-2.css",
       "sha256": "ab68f659ecf59ec0cdb2cadd34c02ef24802686ff82bf35f85dc50ba3018728a"
     },
     {
-      "path": "web/v2/product-integration.legavik-cc-batch3-qa-20261007-1.css",
+      "path": "web/v2/product-integration.legavik-cc-batch3-qa-20261008-2.css",
       "sha256": "e883c56be728b07b04e9539ed03f3e7c592e120254090eec253d07d9e7240376"
     },
     {
-      "path": "web/v3-crypto/canonical-entry.legavik-cc-batch3-qa-20261007-1.js",
-      "sha256": "c15db8558e0ebc7070b6fd56ca2e8fec9fae5d32840c4adf6de2db2dfa3a9199"
+      "path": "web/v3-crypto/canonical-entry.legavik-cc-batch3-qa-20261008-2.js",
+      "sha256": "25c60406829e712abca5d5fa5f0348e9a89fc00f9ee1d6ee5cfd630aaa909db6"
     },
     {
-      "path": "web/v3-crypto/product-v1.legavik-cc-batch3-qa-20261007-1.bundle.js",
-      "sha256": "c61a34ec6b61f6ce3ae1644f1b6ce1e1ab34187e7514716ec8e2206eea3d0fa9"
+      "path": "web/v3-crypto/product-v1.legavik-cc-batch3-qa-20261008-2.bundle.js",
+      "sha256": "e5cdf853f20e986fb171962e7d9c7142bdcb1e49deabe0a4698ec3b5b32b008f"
     },
     {
-      "path": "web/v3-crypto/product-v1.legavik-cc-batch3-qa-20261007-1.css",
+      "path": "web/v3-crypto/product-v1.legavik-cc-batch3-qa-20261008-2.css",
       "sha256": "8bf37fec61f6ed47b9d396403e33c8524640c140343a4a069ca03dd88aa267c5"
     },
     {
-      "path": "src/ui/skrek-global-header.legavik-cc-batch3-qa-20261007-1.css",
+      "path": "src/ui/skrek-global-header.legavik-cc-batch3-qa-20261008-2.css",
       "sha256": "cedadaf8ed1135a636507dbec6e6a5996e357c34dac4e89872b38717fa8f1e74"
     }
   ]
